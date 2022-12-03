@@ -16,6 +16,10 @@ Next make the bot join your server so change the X to your client ID
 
 https://discord.com/api/oauth2/authorize?client_id=X&permissions=8&scope=bot
 
-second last thing to do after adding the bot to your server is turning the testing server id so the commands update quickly
+second last thing to do after adding the bot to your server is setting the guild to the testing server id so the commands update quickly
 
 ![Screen Shot 2022-12-04 at 7 47 26 am](https://user-images.githubusercontent.com/117503464/205461507-580063ad-c100-41e0-a2cb-41211ee4ac11.png)
+
+After that run this in the shell "$ python3 example_bot.py"
+
+And run the command in the server
