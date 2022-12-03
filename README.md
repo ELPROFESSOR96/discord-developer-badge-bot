@@ -1,6 +1,8 @@
 # discord-developer-badge-bot
 So first you must make a repl in replit imported off this repo.
 
+set the entry point to "main_bot.py"
+
 next you must run the code ONCE. If you get a error message in the console your all good
 
 wait for the command to run through.
