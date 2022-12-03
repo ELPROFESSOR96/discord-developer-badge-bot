@@ -2,7 +2,7 @@ import nextcord
 from nextcord.ext import commands
 
 
-TESTING_GUILD_ID = 1027416032748511262  # Replace with your guild ID
+TESTING_GUILD_ID = HEY INPUT YOUR GUILD ID HERE!!  # Replace with your guild ID
 bot = commands.Bot()
 
 @bot.event
@@ -15,4 +15,4 @@ async def active_dev_badge(interaction: nextcord.Interaction):
 
 
 
-bot.run('MTA0ODE0MDIyMTc5NzEwOTg1MA.GI02xG.ozNEZr_-ig8ITgOx1al6_skOijXfjG5C5CZEBk')
+bot.run('INPUT TOKEN HERE!!!')
