@@ -12,4 +12,10 @@ Once it's run through you must get your bot token so go to https://discord.com/d
 
 Once you have the token input in the repl code where it says at the bottom
 
-Last thing get the server ID that 
+Next make the bot join your server so change the X to your client ID
+
+https://discord.com/api/oauth2/authorize?client_id=X&permissions=8&scope=bot
+
+second last thing to do after adding the bot to your server is turning the testing server id so the commands update quickly
+
+![Screen Shot 2022-12-04 at 7 47 26 am](https://user-images.githubusercontent.com/117503464/205461507-580063ad-c100-41e0-a2cb-41211ee4ac11.png)
