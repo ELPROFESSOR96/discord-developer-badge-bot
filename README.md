@@ -11,3 +11,5 @@ Once it's run through you must get your bot token so go to https://discord.com/d
 ![Screen Shot 2022-12-04 at 6 45 43 am](https://user-images.githubusercontent.com/117503464/205459088-93513780-212f-467b-9b69-0246aa027a87.png)
 
 Once you have the token input in the repl code where it says at the bottom
+
+Last thing get the server ID that 
