@@ -23,7 +23,7 @@ second last thing to do after adding the bot to your server is setting the guild
 
 ![Screen Shot 2022-12-04 at 7 47 26 am](https://user-images.githubusercontent.com/117503464/205461507-580063ad-c100-41e0-a2cb-41211ee4ac11.png)
 
-After that run this in the shell "$ python3 main_bot.py"
+After that run this in the shell " python3 main_bot.py"
 
 KEEP THE REPL OPEN AND RUNNING WHEN YOU USE THE BOT COMMAND!
 
