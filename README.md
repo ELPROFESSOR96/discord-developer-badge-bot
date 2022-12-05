@@ -9,13 +9,15 @@ wait for the command to run through.
 
 Once it's run through you must get your bot token so go to https://discord.com/developers/applications
 
-![Screen Shot 2022-12-04 at 6 45 43 am](https://user-images.githubusercontent.com/117503464/205459088-93513780-212f-467b-9b69-0246aa027a87.png)
+![Screen Shot 2022-12-05 at 3 38 04 pm](https://user-images.githubusercontent.com/117503464/205550945-cba29b4d-0215-46de-aa55-3b06e235b739.png)
+
 
 Once you have the token input in the repl code where it says at the bottom
 
-Next make the bot join your server so change the X to your client ID
+Next make the bot join by getting the join link, so go to OAuth2 and then go to url generator.
 
-https://discord.com/api/oauth2/authorize?client_id=X&permissions=8&scope=bot
+Tick the bot box and the administrator then scroll to the bottom of the URL generator 
+
 
 second last thing to do after adding the bot to your server is setting the guild to the testing server id so the commands update quickly
 
