@@ -1,5 +1,5 @@
 # discord-developer-badge-bot
-So first you must make a repl in <a herf="https://replit.com/~">Replit</a> imported off this repo.
+So first you must make a repl in <a href="https://replit.com" target="_blank">Replit</a> imported off this repo.
 
 set the entry point to "main_bot.py"
 
