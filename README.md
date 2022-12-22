@@ -1,9 +1,7 @@
 # discord-developer-badge-bot
 So first you must make a repl in <a href="https://replit.com" target="_blank">Replit</a> imported off this repo.
 
-set the entry point to "main_bot.py"
-
-wait for the command to run through.
+set the run command to python3 main_bot.py
 
 Once it's run through you must get your bot token so go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Portal</a>
 
