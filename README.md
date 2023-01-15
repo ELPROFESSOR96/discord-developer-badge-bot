@@ -33,4 +33,4 @@ Wait for it to say "We have logged in as (input your bot's username)"
 
 KEEP THE REPL OPEN AND RUNNING WHEN YOU USE THE BOT COMMAND!
 
-And run the command in the server
+Make a alt account run the command in the server
