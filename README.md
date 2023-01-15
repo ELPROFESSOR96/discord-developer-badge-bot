@@ -15,12 +15,20 @@ Next make the bot join by getting the join link, so go to OAuth2 and then go to 
 Tick the bot box and the administrator then scroll to the bottom of the URL generator 
 
 
-second last thing to do after adding the bot to your server is setting the guild to the testing server id so the commands update quickly
+almost the last thing to do after adding the bot to your server is setting the guild to the testing server id so the commands update quickly
 
 ![Screen Shot 2022-12-04 at 7 47 26 am](https://user-images.githubusercontent.com/117503464/205461507-580063ad-c100-41e0-a2cb-41211ee4ac11.png)
 
-After that run this in the shell " python3 main_bot.py"
+run this to install nextcord
+```python
+python3 -m pip install -U nextcord
+```
 
+After that run this in the shell 
+
+```python
+python main.py
+```
 KEEP THE REPL OPEN AND RUNNING WHEN YOU USE THE BOT COMMAND!
 
 And run the command in the server
