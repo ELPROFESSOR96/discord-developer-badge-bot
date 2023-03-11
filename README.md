@@ -19,7 +19,7 @@ almost the last thing to do after adding the bot to your server is setting the g
 
 ![Screen Shot 2022-12-04 at 7 47 26 am](https://user-images.githubusercontent.com/117503464/205461507-580063ad-c100-41e0-a2cb-41211ee4ac11.png)
 
-run this to install nextcord
+run this in the shell to install nextcord
 ```python
 python3 -m pip install -U nextcord
 ```
