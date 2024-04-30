@@ -15,4 +15,4 @@ async def active_dev_badge(interaction: nextcord.Interaction):
 
 
 
-bot.run('TOKEN')
+bot.run('MTAzNjI5NDE2MTMxNTM5NzY3Mg.GUfAii.bdeXlmRG0mj7PbqnWK_wGixRi15L8no_iIR1Xc')
