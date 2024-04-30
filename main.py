@@ -2,7 +2,7 @@ import nextcord
 from nextcord.ext import commands
 
 
-TESTING_GUILD_ID = Server_ID  # Replace with your guild ID
+TESTING_GUILD_ID = 997109991272087662  # Replace with your guild ID
 bot = commands.Bot()
 
 @bot.event
